@@ -1,0 +1,4 @@
+telebot
+geopy
+requests
+bs4
